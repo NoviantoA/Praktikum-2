@@ -1,0 +1,83 @@
+body {
+	background-image: url(../img/mooning.png);
+}
+.tentang {
+	width: 600px;
+	height: 280px;
+	margin: auto;
+	position: relative;
+}
+img {
+	/*input float aga teks paragraf berada di samping gambar*/
+	float: left;
+	margin: 5px;
+	padding-right: 10px;
+	height: 300px;
+}
+p {
+	text-align: justify;
+}
+.kotak {
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	border: 2px solid red;
+	margin-left: 220px;
+	text-align: center;
+	line-height: 30px;
+}
+.kotak  a:hover {
+	background-color: white;
+	color: black;
+}
+.kotak a {
+	text-decoration: none;
+	color: red;
+	padding: 2px;
+}
+.list {
+	width: 100%;
+	height: 500px;
+	margin: auto;
+	padding: 2px;
+}
+.kotak1 {
+	width: 250px;
+	height: 200px;
+	color: black;
+	background-color: aliceblue;
+	margin-left: 40px;
+	float: left;
+	border-radius: 25px;
+	box-shadow: 0px 30px 11px -20px rgba(0, 0, 0, 0.6);
+	transition: 0.3s;
+}
+.kotak1:hover {
+	box-shadow: 0px 80px 10px -40px rgba(0, 0, 0, 0.4);
+	margin-top: 40px;
+
+}
+.photo {
+	width: 130px;
+	height: 100px;
+	display: block;
+	margin-left: 60px;
+}
+.profil {
+	font-size: 20px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	text-align: center;
+}
+.isi1 {
+	font-size: 12px;
+	padding-left: 5px;
+}
+.isi2 {
+	font-size: 12px;
+	padding-left: 5px;
+}
+.isi3 {
+	font-size: 12px;
+	padding-left: 5px;
+}

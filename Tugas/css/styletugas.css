@@ -1,0 +1,67 @@
+.menu {
+	width: 600px;
+	margin: auto;
+}
+.photo {
+	display: block;
+	margin: auto;
+}
+h2 {
+	margin: auto;
+	font-family: arial;
+	text-align: center;
+	font-weight: bold;
+}
+.list ul li {
+	display: inline-block;
+	margin-top: 20px;
+}
+.home {
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background-color: skyblue;
+	margin-left: 25px;
+	border-radius: 20px;
+	box-shadow: 0px 30px 11px -20px rgba(0, 0, 0, 0.6);
+}
+.pendidikan {
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background-color: skyblue;
+	margin-left: 25px;
+	border-radius: 20px;
+	box-shadow: 0px 30px 11px -20px rgba(0, 0, 0, 0.6);
+}
+.jkuliah {
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background-color: skyblue;
+	margin-left: 25px;
+	border-radius: 20px;
+	box-shadow: 0px 30px 11px -20px rgba(0, 0, 0, 0.6);
+}
+.aktivitas {
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background-color: skyblue;
+	margin-left: 25px;
+	border-radius: 20px;
+	box-shadow: 0px 30px 11px -20px rgba(0, 0, 0, 0.6);
+}
+.list  a:hover {
+	background-color: lightblue;
+	color: white;
+}
+.list a {
+	text-decoration: none;
+	color: yellow;
+	padding: 2px;
+}
